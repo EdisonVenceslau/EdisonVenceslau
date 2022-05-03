@@ -3,9 +3,9 @@
 **Status** = In progress
 ##
 <div align="center">
-  <a href="https://github.com/edison2205">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edison2205&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison2205&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/EdisonVenceslau">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdisonVenceslau&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonVenceslau&layout=compact&langs_count=7&theme=radical"/>
 </div>
 Linguagens que irei aprender :D
 <div style="display: inline_block"><br>
