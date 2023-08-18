@@ -1,6 +1,6 @@
 ## ⚔️MISSÃO⚔
 ## -Aprender Cibersegurança
-**Status** = Em Preogresso...
+**Status** = Em Progresso...
 ##
  <div>
 <ul>
